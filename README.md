@@ -1,4 +1,4 @@
-<h2 align="center">Olá eu sou Dayvid Ruan 😃️!</h2>
+<h1 align="center">Olá eu sou Dayvid Ruan 😃️!</h1>
 
 <div align="center">
   <a href="https://github.com/Dayvid-Ruan">
@@ -10,9 +10,9 @@
 
  ![Snake animation](https://github.com/Dayvid-Ruan/Dayvid-Ruan/blob/output/github-contribution-grid-snake.svg)
 
-</div>  
+</div>
   
-<h3 align="center">Tecnologias</h3>
+<h2 align="center">Tecnologias 🧑‍💻💻</h2>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Dayvid-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,7 +28,8 @@
 </div>
   
 ##
-  
+
+<h2 align="center">contatos ✉️📞</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/dayvid-ferreira/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:ruan12bbg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
