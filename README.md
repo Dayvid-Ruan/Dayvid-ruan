@@ -29,3 +29,9 @@
   <a href="https://www.linkedin.com/in/dayvid-ferreira/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:ruan12bbg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+  
+<div align="center">
+
+ ![Snake animation](https://github.com/Dayvid-Ruan/Dayvid-Ruan/blob/output/github-contribution-grid-snake.svg)
+
+</div>
